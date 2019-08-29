@@ -1,0 +1,21 @@
+{
+  "name": "hello.alexa.serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "serverless deploy --aws-s3-accelerate",
+    "test": "jest --verbose ./tests/*"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.7.1",
+    "serverless": "^1.42.3"
+  },
+  "dependencies": {
+    "ask-sdk-core": "^2.6.0",
+    "ask-sdk-model": "^1.18.0",
+    "aws-sdk": "^2.326.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "session": {},
+  "context": {},
+  "request": {
+    "type": "LaunchRequest",
+    "locale": "en-GB",
+    "shouldLinkResultBeReturned": false
+  }
+}

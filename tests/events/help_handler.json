@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "session": {},
+  "context": {},
+  "request": {
+    "type": "IntentRequest",
+    "locale": "en-GB",
+    "intent": {
+      "name": "AMAZON.HelpIntent",
+      "confirmationStatus": "NONE"
+    }
+  }
+}
